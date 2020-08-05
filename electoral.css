@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+}
+
+.mapHolder {
+    text-align: center;
+}
+
+.state {
+    fill: gray;
+}
+
+.redState {
+    fill: red;
+    background-color: red;
+    border-color: red;
+    outline: red;
+}
+
+.blueState {
+    fill: blue;
+    background-color: blue;
+    border-color: blue;
+    outline: blue;
+}
+
+.redButton {
+    background-color: red;
+}
+
+#totals {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+
+#totalrows td {
+    width: 50%;
+}
+
+#redName {
+    color: red;
+}
+
+#blueName {
+    color: blue;
+}
+
+#splitStates {
+    margin-top: 25px;
+    margin-left: 22%;
+}
+
+button {
+    width: 100px;
+}
