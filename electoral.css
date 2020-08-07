@@ -4,6 +4,8 @@ h1 {
 
 .mapHolder {
     text-align: center;
+    width: 80%;
+    padding-left: 10%;
 }
 
 .state {
@@ -48,7 +50,12 @@ h1 {
 
 #splitStates {
     margin-top: 25px;
-    margin-left: 22%;
+    margin: 0 auto;
+    /*margin-left: 22%;*/
+}
+
+#splitStates tr {
+    text-align: center;
 }
 
 button {
